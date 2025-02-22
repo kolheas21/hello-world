@@ -1,2 +1,2 @@
 # hello-world
-Practicing Github
+I am a Automation Tester and learning GitHub for the first time
